@@ -1,6 +1,7 @@
 # Runner script for all modules
 from load_data import load_sensor_data          # module 1
 from house_info import HouseInfo                # module 2
+from datetime import datetime, date
 
 ##############################
 # Do not remove these two lines
